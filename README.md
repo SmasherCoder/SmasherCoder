@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SmasherCoder Real Name Travis Helms 
 - 👀 I’m interested in ... Coding and playing Counter Strike
 - 🌱 I’m currently in a ... UT Bootcamp learning web development
-- 📫 How to reach me ... Feel free to email me at smasher.coder@gmail.com
+- 📫 How to reach me ... Feel free to email me at travis.helms@gmail.com
