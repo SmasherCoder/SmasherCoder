@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SmasherCoder Real Name Travis Helms 
-- 👀 I’m interested in ... mostly web development coding.
+- 👀 I’m interested in ... coding
 - 📫 Feel free to email me at smasher.coder@gmail.com
